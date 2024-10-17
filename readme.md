@@ -2,6 +2,12 @@
 
 欢迎使用我的应用程序！本应用旨在提供便捷的数据分析和可视化功能。以下是使用该应用的详细步骤：
 
+## 系统要求
+
+- **操作系统**: Windows, macOS, 或 Linux
+- **R版本**: 建议使用**R 4.4.0**及以上版本
+- **RStudio**: 推荐使用最新版本的RStudio
+
 ## 使用说明
 
 ### 第一步：下载并解压所有文件
@@ -15,8 +21,7 @@
 
 1. **打开RStudio**: 确保您已安装 [R](https://www.r-project.org/) 和 [RStudio](https://www.rstudio.com/)。
 2. **打开项目文件**:
-   - 在RStudio中，点击 **File** > **Open Project...**。
-   - 导航到解压后的项目文件夹，选择 `.Rproj` 文件并打开。
+   - 点击文件夹内的 `.Rproj` 文件并打开。
 3. **安装依赖包**:
    - 在RStudio的控制台中运行以下命令以安装所有必要的R包：
      ```r
@@ -36,12 +41,6 @@
    - 应用启动后，您的默认浏览器将自动打开一个新的标签页，显示Shiny应用的用户界面。
    - 按照界面提示进行数据输入和选择，完成后续的计算和分析。
 
-## 系统要求
-
-- **操作系统**: Windows, macOS, 或 Linux
-- **R版本**: 建议使用R 4.0.0及以上版本
-- **RStudio**: 推荐使用最新版本的RStudio
-
 ## 常见问题
 
 - **包安装失败**: 请确保您的网络连接正常，并且R和RStudio已正确安装。您也可以尝试手动安装失败的包。
@@ -49,7 +48,7 @@
 
 ## 贡献
 
-欢迎对本项目提出建议或贡献代码！请提交[issue](https://github.com/your-username/your-repository/issues)或拉取请求（pull request）以参与项目改进。
+欢迎对本项目提出建议或贡献代码！请提交[issue][https://github.com/zhonghua723/autoML/issues]或拉取请求（pull request）以参与项目改进。
 
 ## 许可证
 
