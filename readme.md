@@ -55,11 +55,5 @@
 
 本项目采用 [MIT 许可证](LICENSE) 进行许可。您可以自由使用、修改和分发本项目的代码。
 
-## 联系我们
-
-如有任何问题或建议，请通过以下方式与我们联系：
-
-- **邮箱**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
 感谢您的使用和支持！
