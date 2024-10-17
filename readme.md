@@ -48,7 +48,7 @@
 
 ## 贡献
 
-欢迎对本项目提出建议或贡献代码！请提交[issue][https://github.com/zhonghua723/autoML/issues]或拉取请求（pull request）以参与项目改进。
+欢迎对本项目提出建议或贡献代码！请提交[issue](https://github.com/zhonghua723/autoML/issues)或拉取请求（pull request）以参与项目改进。
 
 ## 许可证
 
